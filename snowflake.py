@@ -63,7 +63,6 @@ pendown()
 snowflake(3, "black", 2, 6, 4)
 """
         
-horiz(9, 6)
 color('cyan')
 end_fill()
 
